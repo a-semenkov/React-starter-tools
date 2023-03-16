@@ -23,4 +23,8 @@ useIsMounted
 useToggle
 ```
 
+**Utils**
 
+```
+generateRandomKey + assoc
+```
